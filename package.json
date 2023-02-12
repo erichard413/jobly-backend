@@ -29,9 +29,5 @@
     "pg": "^8.3.0",
     "dotenv": "^16.0.3",
     "supertest": "^5.0.0-0"
-  },
-  "devDependencies": {
-    "dotenv": "^16.0.3",
-    "supertest": "^5.0.0-0"
   }
 }
