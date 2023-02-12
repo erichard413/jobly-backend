@@ -2,7 +2,7 @@
 
 /** Shared config for application; can be required many places. */
 
-require("dotenv").config();
+// require("dotenv").config();
 require("colors");
 
 const ACCESS_TOKEN_SECRET = process.env.ACCESS_TOKEN_SECRET || "secret-dev";
